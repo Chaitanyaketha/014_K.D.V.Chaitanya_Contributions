@@ -9,3 +9,7 @@ average= (a+b)/2
 print('average of two numbers is:',average )
 print("addition of two numbers is:",(a+b))
 print("multiplication of a and b is:",(a*b))
+
+Ques3:
+list=[62,17,1,6,81,716,'sairam',56.61,6]
+print('the list in reverse order is:',list[::-1])
